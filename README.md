@@ -13,4 +13,4 @@
 - DockerHub
 
 ## 🔗 Docker Image
-[DockerHub Image](https://hub.docker.com/r/YOUR_USERNAME/devops-cicd-nodejs)
+[DockerHub Image](https://hub.docker.com/repository/docker/anuragrajput26/devops-cicd-nodejs/tags/latest/sha256-eacb73e2ab3287c65499d4413eb299a32f5f0695035149bc618735b091e7477b)
